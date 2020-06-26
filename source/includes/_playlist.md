@@ -153,7 +153,7 @@ Returns — Matrix of Playlist Models - all playlists belonging to a user groupe
 </aside>
 
 <aside class="notice">
-The playlists of type "nexRex" (method playlist.FetchNexRexPlaylists) and "algorithm" (method playlist.FetchBifrostPlaylists) can take few seconds to be generated after the user profile is updated
+The playlists of type "nexRex" (method playlist.FetchNexRexPlaylists) and "algorithm" (method playlist.FetchBifrostPlaylists) can take a few seconds to be generated after the user profile is updated
 </aside>
 
 ### Errors
