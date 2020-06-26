@@ -50,9 +50,9 @@ refresh_token | string | Token used to generate a new JWT token
 	"provider": {
 		"id": 310,
 		"name": "Scientific American",
-		"image": "/shot/p/sq/310.png",
+		"image": "https://api.sec.filtered.com/v2/shot/p/sq/310.png",
 		"favicon": "",
-        "url": "https://www.scientificamerican.com"
+		"url": "https://www.scientificamerican.com"
 	},
 	"competencyList": [{
 		"id": 21,
@@ -117,7 +117,7 @@ name | string | The competency name
 {
     "id": 309,
     "name": "",
-    "image": "/shot/p/sq/309.png",
+    "image": "https://api.sec.filtered.com/v2/shot/p/sq/309.png",
     "favicon": ""
 }
 ```
