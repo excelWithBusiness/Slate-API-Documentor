@@ -115,10 +115,11 @@ name | string | The competency name
 
 ```json
 {
-    "id": 309,
-    "name": "",
-    "image": "https://api.sec.filtered.com/v2/shot/p/sq/309.png",
-    "favicon": ""
+    "id": 310,
+    "name": "Scientific American",
+    "image": "https://api.sec.filtered.com/v2/shot/p/sq/310.png",
+    "favicon": "",
+    "url": "https://www.scientificamerican.com"
 }
 ```
 
