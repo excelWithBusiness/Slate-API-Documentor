@@ -49,9 +49,10 @@ refresh_token | string | Token used to generate a new JWT token
 	"restrictionLabel": "Free",
 	"provider": {
 		"id": 310,
-		"name": "",
-		"image": "/shot/p/sq/310.png",
-		"favicon": ""
+		"name": "Scientific American",
+		"image": "https://api.sec.filtered.com/v2/shot/p/sq/310.png",
+		"favicon": "",
+		"url": "https://www.scientificamerican.com"
 	},
 	"competencyList": [{
 		"id": 21,
@@ -114,10 +115,11 @@ name | string | The competency name
 
 ```json
 {
-    "id": 309,
-    "name": "",
-    "image": "/shot/p/sq/309.png",
-    "favicon": ""
+    "id": 310,
+    "name": "Scientific American",
+    "image": "https://api.sec.filtered.com/v2/shot/p/sq/310.png",
+    "favicon": "",
+    "url": "https://www.scientificamerican.com"
 }
 ```
 
