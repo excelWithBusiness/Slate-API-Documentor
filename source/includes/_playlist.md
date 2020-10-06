@@ -1311,7 +1311,7 @@ Retrieve a list of assets
 
 Parameter | Type | Description
 --------- | ------- | -----------
-AssetIDs | arary of integers | the asset identifiers
+AssetIDs | array of integers | the asset identifiers
 
 <aside class="success">
 Returns — List of Learning Asset Models - with provided IDs 
